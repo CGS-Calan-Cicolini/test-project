@@ -20,6 +20,7 @@ class ViewController: UIViewController {
 
     func averageFeature() {
         
+        //Comment
         println("This is an average feature!")
         
     }
