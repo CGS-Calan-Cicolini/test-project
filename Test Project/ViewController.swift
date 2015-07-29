@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         // Debug line of code
         println("Hello World")
     }
-
+    //This function is average
     func averageFeature() {
         
         //Comment
