@@ -17,6 +17,13 @@ class SecondViewController: UIViewController {
             // Debug line of code
             println("Hello World")
         }
+    // 1-10
+    func counter() {
+        
+        for i in 1...10{
+            println(i)
+        }
+    }
 }
 
 
