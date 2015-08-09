@@ -17,8 +17,9 @@ class ViewController: UIViewController {
         // Debug line of code
         println("Hello World")
     }
+    
     //This function is average
-    func notSoAverageFeature() {
+    func notSoAverageInterestingFeature() {
         
         //Comment
         //Another comment
